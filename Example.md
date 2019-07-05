@@ -22,7 +22,8 @@ To.
 Write.
 On.
 Different.
-Lines.
+Lines.  
+(I've just figured to have to do a double space to write on a new line)
 
 ## Topics
 Headings   
