@@ -4,6 +4,7 @@ Held at the Fawkes Training Room on 5th November from 13:00 to 17:00
 Cycle to the site, then walk around the corner to the building. The room is on the first floor.
 
 here we are at GitHub
+ggg
 
 <a name="TheTop"></a>
 ### Trainers
