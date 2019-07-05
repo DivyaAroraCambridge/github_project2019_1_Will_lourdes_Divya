@@ -3,6 +3,8 @@ Held at the Fawkes Training Room on 5th November from 13:00 to 17:00
 
 Cycle to the site, then walk around the corner to the building. The room is on the first floor.
 
+here we are at GitHub
+
 <a name="TheTop"></a>
 ### Trainers
 Ash.    
@@ -14,9 +16,7 @@ Bullet point lists (& nesting).
 * Point 1
    * nested point 1
 * Point 2.  
- I'm trying to change something
- 
- 
+
 Ordered lists (& nesting)   
 1. __Bold text__ or **Bold text**.   
 2. _Italics_ or *Italics* .   
