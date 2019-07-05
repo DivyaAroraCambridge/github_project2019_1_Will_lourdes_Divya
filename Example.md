@@ -9,9 +9,10 @@ here we are at GitHub
 ### Trainers
 Ash.    
 Mark.
-Will.
-Divya.
-Lourdes.
+
+Will
+Divya
+Lourdes
 
 ## Topics
 Headings   
