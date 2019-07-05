@@ -10,9 +10,9 @@ here we are at GitHub
 Ash.    
 Mark.
 
-Will
-Divya
-Lourdes
+Will.
+Divya.
+Lourdes.
 
 ## Topics
 Headings   
